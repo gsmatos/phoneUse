@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phone Use</string>
+    <string name="notification_channel_screen_time">Notification channel screen time</string>
+    <string name="notification_service_description">Notification service for screen time</string>
+</resources>
